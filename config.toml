@@ -1,6 +1,6 @@
 base_url = "https://tradeworks.co.za"
 title = "tradeworks"
-
+theme = "hallo"
 compile_sass = true
 
 highlight_code = false
@@ -20,6 +20,8 @@ links = [
 
 [extra.author]
 name = "Dave New"
+
+
 
 [extra.theme]
 background = "#6FCDBD"
