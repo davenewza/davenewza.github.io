@@ -1,6 +1,8 @@
+theme = "hallo"
+
 base_url = "https://tradeworks.co.za"
 title = "tradeworks"
-theme = "hallo"
+
 compile_sass = true
 
 highlight_code = false
@@ -14,8 +16,7 @@ iam = "I am"
 
 links = [
     { title = "E-Mail", url = "mailto:info@tradeworks.co.za", iconset = "fas", icon = "envelope" },
-    { title = "GitHub", url = "https://github.com", icon = "github" },
-    { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
+
 ]
 
 [extra.author]

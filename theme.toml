@@ -11,13 +11,11 @@ greeting = "Hello!"
 iam = "I am"
 
 links = [
-    { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
-    { title = "GitHub", url = "https://github.com", icon = "github" },
-    { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
+    { title = "E-Mail", url = "mailto:info@tradeworks.co.za", iconset = "fas", icon = "envelope" }
 ]
 
 [extra.author]
-name = "Hallo"
+name = "Dave New"
 
 [extra.theme]
 background = "#6FCDBD"
@@ -25,10 +23,4 @@ foreground = "#FFF"
 hover = "#333"
 
 [author]
-name = "Jan Baudisch"
-homepage = "https://janbaudisch.dev"
-
-[original]
-author =  "Emiel Hollander"
-homepage = "https://themes.gohugo.io/theme/hallo-hugo/"
-repo = "https://github.com/EmielH/hallo-hugo"
+name = "Dave New"
