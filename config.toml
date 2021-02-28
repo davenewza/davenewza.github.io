@@ -1,5 +1,5 @@
-base_url = "https://zola-hallo.janbaudisch.dev"
-title = "Hallo"
+base_url = "https://tradeworks.co.za"
+title = "tradeworks"
 
 compile_sass = true
 
@@ -8,18 +8,18 @@ highlight_code = false
 build_search_index = false
 
 [extra]
-greeting = "Hello!"
+greeting = "tradeworks"
 
 iam = "I am"
 
 links = [
-    { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
+    { title = "E-Mail", url = "mailto:info@tradeworks.co.za", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com", icon = "github" },
     { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
 ]
 
 [extra.author]
-name = "Hallo"
+name = "Dave New"
 
 [extra.theme]
 background = "#6FCDBD"
